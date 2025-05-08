@@ -1,2 +1,1 @@
-# Html-practicing 
-basic sytaxn
+#hello my portofolio
